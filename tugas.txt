@@ -1,3 +1,4 @@
 List Pembelajaran Kedepan
 - Network
 - Programming
+- Menulis
